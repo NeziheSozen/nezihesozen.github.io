@@ -1,0 +1,2 @@
+
+[CG-Translators](https://github.com/CG-translators) kod havuzu altında yer alan ve öncülük ettiğim çeviri çalışmalarından biridir. Çevirilere [ekip üyeleri](https://github.com/orgs/CG-translators/people)  destek olmaktadır. Orijinal [kaynak](https://learnopengl.com/) Joey De Vries'e aittir. Türkçe kaynak ihtiyacına çözüm bulabilmek için yazarın izni ile çeviri yapılmaktadır. Çeviri çalışmasına [buradan](https://cgtranslators.gitbook.io/opengl-ogrenin/) ulaşabilirsiniz.
